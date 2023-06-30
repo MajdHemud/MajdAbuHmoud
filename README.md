@@ -44,13 +44,13 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 ## Github Stats  
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&title_color=8D40FF&bg_color=1c2128&text_color=adbac7" alt="">
   <br/>
   <br/>
- <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true" alt="">
+ <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&hide_border=true&background=1c2128&ring=8D40FF&fire=8D40FF&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=9CA3AF&stroke=768390&currStreakLabel=8D40FF" alt="">
     <br/>
   <br/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=8D40FF&bg_color=1c2128&text_color=adbac7" alt="">
 </p>
 
 <br/>  
