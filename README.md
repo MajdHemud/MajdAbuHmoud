@@ -44,9 +44,13 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 ## Github Stats  
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="">
- <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true" alt="">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="">
+  <br/>
+  <br/>
+ <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true" alt="">
+    <br/>
+  <br/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
 </p>
 
 <br/>  
