@@ -42,16 +42,17 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 <br/>
 
 ## Github Stats  
-<table><tr style="border:none"><td style="border:none">
-  <img src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="">
-</td>
-  <td style="border:none">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true" alt="">
-  </td>
-</tr>
-</table>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="">
+  <br/>
+  <br/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true" alt="">
+  <br/>
+  <br/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+</p>
+<p align="center">
+ 
 </p> 
 
 <br/>  
