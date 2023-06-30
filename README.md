@@ -7,37 +7,33 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 <br/>  
 
 
-## Rapidfire  
-- 🔭 I’m currently working on [Promptopia](https://github.com/MajdAbuHmoud/project_promptopia)  
+## Some Things About Me 😁:
+- 🔭 I’m currently working on [Promptopia](https://github.com/MajdAbuHmoud/project_promptopia).
   
 
-- 🌱 I’m currently learning NextJS, refine, Supabase, and Material UI  
+- 🌱 I’m currently learning NextJS, refine, Supabase, and Material UI.
   
 
-- 📝 I regularly write articles on [hashnode](https://mecvino-coding.hashnode.dev) and [dev.to](https://dev.to/m3cv1no)  
+- 📝 I regularly write articles on [hashnode](https://mecvino-coding.hashnode.dev) and [dev.to](https://dev.to/m3cv1no).
   
 
-- 💬 Ask me about React, NextJS, Passage, and Material UI  
+- 💬 Ask me about React, NextJS, Passage, and Material UI.
   
 
-- 📫 How to reach me majd.sami1996@gmail.com  
+- 📫 How to reach me majd.sami1996@gmail.com.
   
 
-- 💎 Treasures: Kindle, Graphics Tablet, [my nerd stuff](https://mecvino-coding.hashnode.dev/nerd-stuff).  
+- 💎 Treasures: Kindle, Graphics Tablet, [my nerd stuff](https://mecvino-coding.hashnode.dev/nerd-stuff).
   
 
-- 💻 Coding Environment: Vs Code with GitHub Dark theme + Music or Podcasts 🎧 + Spanish Latte ☕.  
+- 💻 Coding Environment: Vs Code with GitHub Dark theme + Music or Podcasts 🎧 + Spanish Latte ☕.
   
 
-- 💬 Favourite Quote: If you are working on something that you really care about, you don't have to be pushed. The vision pulls you - Steve Jobs.  
+- 💬 Favourite Quote: If you are working on something that you really care about, you don't have to be pushed. The vision pulls you - Steve Jobs.
   
 
-- ⚡Fun facts: I do yummy Lattes, and love Chinese food 😋.  
-  
-
+- ⚡Fun facts: I do yummy Lattes, and love Chinese food 😋.
 <br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -71,8 +67,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 </div>  
 
-<br/>  
-
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -87,12 +82,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 
 <br/>  
 
-  
-
-<br/>  
-
-
-## Visitor Counter  
+## Follow me 🥰  
 <a href="https://twitter.com/majdabuhmoud" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -122,7 +112,3 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
                     align="left"
                 />
             </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
