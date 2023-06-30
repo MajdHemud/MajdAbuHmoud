@@ -33,7 +33,9 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
   
 
 - ⚡Fun facts: I do yummy Lattes, and love Chinese food 😋.
-<br/>  
+
+<br/>
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -70,15 +72,9 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 <br/>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
+<p><img src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true" alt=""><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></p> 
 
 <br/>  
 
@@ -105,6 +101,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 
 <br/>  
 
+## Support me 🥰  
 <div align="left">
             <a href="https://paypal.me/paypal.me/M3CV1NO" target="_blank" style="display: inline-block;">
                 <img
