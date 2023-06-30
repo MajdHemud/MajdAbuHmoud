@@ -43,10 +43,14 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 
 ## Github Stats  
 
-<p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&hide_border=true&background=1c2128&ring=8D40FF&fire=8D40FF&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=9CA3AF&stroke=768390&currStreakLabel=8D40FF" alt="">
-  <img src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&title_color=8D40FF&bg_color=1c2128&text_color=adbac7" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=8D40FF&bg_color=1c2128&text_color=adbac7" alt="">
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&hide_border=true&background=1c2128&ring=8D40FF&fire=8D40FF&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=9CA3AF&stroke=768390&currStreakLabel=8D40FF&card_width=500" alt="">
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&title_color=8D40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=8D40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
 </p>
 
 <br/>  
