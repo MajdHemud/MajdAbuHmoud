@@ -78,7 +78,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 
 ## Support me 🥰  
 <div align="left">
-            <a href="https://paypal.me/paypal.me/M3CV1NO" target="_blank" style="display: inline-block;">
+            <a href="https://www.paypal.com/paypalme/M3CV1NO" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"
