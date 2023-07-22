@@ -8,10 +8,8 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 
 
 ## Some Things About Me 😁:
-- 🔭 I’m currently working on [Promptopia](https://github.com/MajdAbuHmoud/project_promptopia).
-  
 
-- 🌱 I’m currently learning NextJS, refine, Supabase, and Material UI.
+- 🌱 I’m currently learning NextJS, refine, Supabase, AWS Amplify, and Material UI.
   
 
 - 📝 I regularly write articles on [hashnode](https://mecvino-coding.hashnode.dev) and [dev.to](https://dev.to/m3cv1no).
