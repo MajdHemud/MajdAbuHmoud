@@ -1,7 +1,7 @@
 ## 👋 Hello world!  
   
 
-My name is Majd. I'm a senior web developer and a technical blogger. I love to learn about the latest web development tech. Besides loving my job, I love to read books, drawing, and play video games.  
+My name is Majd. I'm a Senior Web Developer and a Technical Blogger. I love to learn about the latest web development tech. Besides loving my job, I love to read books, drawing, and play video games.  
   
 
 <br/>  
@@ -9,7 +9,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 
 ## Some Things About Me 😁:
 
-- 🌱 I’m currently learning NextJS, refine, Supabase, AWS Amplify, and Material UI.
+- 🌱 I’m currently learning React and NextJS.
   
 
 - 📝 I regularly write articles on [hashnode](https://mecvino-coding.hashnode.dev) and [dev.to](https://dev.to/m3cv1no).
@@ -18,7 +18,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 - 💬 Ask me about React, NextJS, Passage, and Material UI.
   
 
-- 📫 How to reach me majd.sami1996@gmail.com.
+- 📫 How to reach me majd.hemud@gmail.com.
   
 
 - 💎 Treasures: Kindle, Graphics Tablet, [my nerd stuff](https://mecvino-coding.hashnode.dev/nerd-stuff).
@@ -54,7 +54,7 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 <br/>  
 
 ## Follow me 🥰  
-<a href="https://twitter.com/majdabuhmoud" target="_blank">
+<a href="https://twitter.com/MajdHemud" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/m3cv1no" target="_blank">
