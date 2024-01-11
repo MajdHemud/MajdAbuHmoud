@@ -42,13 +42,13 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 ## Github Stats  
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdAbuHmoud&hide_border=true&background=1c2128&ring=BB40FF&fire=BB40FF&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=9CA3AF&stroke=768390&currStreakLabel=BB40FF&card_width=500" alt="">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdHemud&hide_border=true&background=1c2128&ring=BB40FF&fire=BB40FF&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=9CA3AF&stroke=768390&currStreakLabel=BB40FF&card_width=500" alt="">
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&title_color=BB40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=MajdHemud&hide_border=true&include_all_commits=true&count_private=true&title_color=BB40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdAbuHmoud&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=BB40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajdHemud&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=BB40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
 </p>
 
 <br/>  
@@ -71,16 +71,4 @@ My name is Majd. I'm a senior web developer and a technical blogger. I love to l
 </a>
 <a href="https://instagram.com/majd.sami_350" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-## Support me 🥰  
-<div align="left">
-            <a href="https://www.paypal.com/paypalme/M3CV1NO" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a></div>
+</a>
