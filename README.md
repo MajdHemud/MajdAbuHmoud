@@ -63,7 +63,7 @@ My name is Majd. I'm a Senior Web Developer and a Technical Blogger. I love to l
 <a href="https://hashnode.com/@M3CV1NO" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/majdsami1996" target="_blank">
+<a href="https://codepen.io/MajdHemud" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/majd-abu-hmoud1996" target="_blank">
