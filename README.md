@@ -40,9 +40,8 @@ My name is Majd. I'm a Senior Web Developer and a Technical Blogger. I love to l
 <br/>
 
 ## Github Stats  
-
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajdHemud&hide_border=true&background=1c2128&ring=BB40FF&fire=BB40FF&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=9CA3AF&stroke=768390&currStreakLabel=BB40FF&card_width=500" alt="">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashen-gamma.vercel.app?user=MajdHemud&theme=soft-green&hide_border=true&background=1C2128&ring=BB40FF&fire=BB40FF&stroke=768390&currStreakLabel=BB40FF&currStreakNum=ADBAC7&sideNums=ADBAC7&sideLabels=ADBAC7&dates=9CA3AF" alt="GitHub Streak" /></a>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MajdHemud&hide_border=true&include_all_commits=true&count_private=true&title_color=BB40FF&bg_color=1c2128&text_color=adbac7&card_width=500" alt="">
