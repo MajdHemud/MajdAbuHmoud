@@ -9,7 +9,7 @@ My name is Majd. I'm a Senior Web Developer and a Technical Blogger. I love to l
 
 ## Some Things About Me 😁:
 
-- 🌱 I’m currently learning React and NextJS.
+- 🌱 I’m currently learning React, NextJS, and Angular.
   
 
 - 📝 I regularly write articles on [hashnode](https://mecvino-coding.hashnode.dev) and [dev.to](https://dev.to/m3cv1no).
