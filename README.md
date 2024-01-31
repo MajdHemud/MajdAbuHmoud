@@ -1,7 +1,7 @@
 ## 👋 Hello world!  
   
 
-My name is Majd. I'm a Senior Web Developer and a Technical Blogger. I love to learn about the latest web development tech. Besides loving my job, I love to read books, drawing, and play video games.  
+My name is Majd. I'm a Frontend Developer and a Technical Blogger. I love to learn about the latest web development tech. Besides loving my job, I love to read books, drawing, and play video games.  
   
 
 <br/>  
@@ -9,7 +9,7 @@ My name is Majd. I'm a Senior Web Developer and a Technical Blogger. I love to l
 
 ## Some Things About Me 😁:
 
-- 🌱 I’m currently learning React, NextJS, and Angular.
+- 🌱 I’m currently learning React, NextJS.
   
 
 - 📝 I regularly write articles on [hashnode](https://mecvino-coding.hashnode.dev) and [dev.to](https://dev.to/m3cv1no).
