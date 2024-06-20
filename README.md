@@ -1,7 +1,7 @@
 ## 👋 Hello world!  
   
 
-My name is Majd. I'm a Full stack Developer and a Technical Blogger. I love to learn about the latest Full stack development tech. Besides loving my job, I love to read books, drawing, and play video games.  
+My name is Majd. I'm a Software Engineer, Cyber Security Engineer, and a technical blogger. Besides loving my job, I love to read books, drawing, and play video games.
   
 
 <br/>  
