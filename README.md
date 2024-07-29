@@ -1,7 +1,7 @@
 ## 👋 Hello world!  
   
 
-My name is Majd. I'm a Software Engineer, Cyber Security Engineer, and a technical blogger. Besides loving my job, I love to read books, drawing, and play video games.
+My name is Majd. I'm a Top-Notch React Developer and a technical blogger. Besides loving my job, I love to read books, drawing, and play video games.
   
 
 <br/>  
